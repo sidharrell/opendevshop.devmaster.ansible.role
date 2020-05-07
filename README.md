@@ -1,0 +1,1 @@
+# opendevshop.devmaster.ansible.role
